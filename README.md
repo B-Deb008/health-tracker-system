@@ -52,7 +52,7 @@ The objective of this project is to provide a simple and efficient system for us
 ![add_health](add_health.png)
 ![view_record](view_record.png)
 ![search_records](search_record.png)
-![profile](profile management.png)
+![profile](profile_management.png)
 
 
 ### 🔹 ER Diagram
