@@ -46,7 +46,7 @@ The objective of this project is to provide a simple and efficient system for us
 
 ### 🔹 ER Diagram
 
-(Add your ER Diagram image here)
+![ER Diagram](er-diagram.png)
 
 ---
 
