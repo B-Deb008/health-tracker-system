@@ -44,6 +44,17 @@ The objective of this project is to provide a simple and efficient system for us
 
 ## 🖼️ Project Preview
 
+### 🔹 UI Screenshots
+![index](index_page.png)
+![register](registration_page.png)
+![login](login_page.png)
+![dashboard](dashboard.png)
+![add_health](add_health.png)
+![view_record](view_record.png)
+![search_records](search_record.png)
+![profile](profile management.png)
+
+
 ### 🔹 ER Diagram
 
 ![ER Diagram](er-diagram.png)
