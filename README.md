@@ -83,6 +83,6 @@ MySQL was used to store user data and health records. Two main tables were used:
 
 ## 🎥 Demo Video
 
-👉 Vedio will be added soon.
+👉https://drive.google.com/file/d/1DnEU5NF0Q4KaR8eSQeyqbvfnYOGvr8KR/view?usp=sharing
 
 ---
